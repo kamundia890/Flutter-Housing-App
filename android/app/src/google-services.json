@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "1073777330258",
+    "firebase_url": "https://teen-worship.firebaseio.com",
+    "project_id": "teen-worship",
+    "storage_bucket": "teen-worship.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073777330258:android:442910eb25234a0fecf78b",
+        "android_client_info": {
+          "package_name": "com.example.house"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073777330258-u7kna37bq90ad6hjp4ns6tcc8pj0g16m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxyv-6sRnUQBl9w_s2t2lFOL7tiWj4eHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073777330258-u7kna37bq90ad6hjp4ns6tcc8pj0g16m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073777330258:android:b8e5d34f7f21b8fd",
+        "android_client_info": {
+          "package_name": "com.example.kamundia.teenworship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073777330258-3c2mmhvhr6irsr6dn96t96ks2s2v8214.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kamundia.teenworship",
+            "certificate_hash": "672ea38e199c14eef3d742cbdea3cb6ad419f2e4"
+          }
+        },
+        {
+          "client_id": "1073777330258-u7kna37bq90ad6hjp4ns6tcc8pj0g16m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxyv-6sRnUQBl9w_s2t2lFOL7tiWj4eHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073777330258-u7kna37bq90ad6hjp4ns6tcc8pj0g16m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
